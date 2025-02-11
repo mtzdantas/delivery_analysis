@@ -1,0 +1,8 @@
+name: delivery
+channels:
+  - defaults
+dependencies:
+  - python=3.9.13
+  - ipykernel
+  - pandas
+  - matplotlib
