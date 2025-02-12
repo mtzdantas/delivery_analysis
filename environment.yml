@@ -1,8 +1,10 @@
 name: delivery
 channels:
+  - conda-forge 
   - defaults
 dependencies:
   - python=3.9.13
   - ipykernel
   - pandas
   - matplotlib
+  - openpyxl
