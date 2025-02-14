@@ -27,7 +27,7 @@ Após isso, o script estará pronto para ser executado.
 ## Destaques do projeto
 
 ### Solução do primeiro problema
-Imagens dos Dataframes que representam os 20 entregadores que possuem maior distância percorrida ao todo, separado por tipo de profissional e meio de transporte (apenas moto).
+Levantamento dos 20 entregadores que possuem maior distância percorrida ao todo, separado por tipo de profissional e meio de transporte (apenas moto).
 
 ![Freelance](output/tops_freelance.png)
 ![Operator](output/tops_operator.png)
